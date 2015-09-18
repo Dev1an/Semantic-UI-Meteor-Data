@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'semantic:ui-data',
+  name: 'semantic:ui-data-extended',
   version: '2.1.4',
   summary: 'Data package for Semantic UI Meteor',
   git: 'https://github.com/Semantic-Org/Semantic-UI-Meteor-Data.git',

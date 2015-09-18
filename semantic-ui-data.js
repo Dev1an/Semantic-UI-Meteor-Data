@@ -2,7 +2,7 @@ var fs = Npm.require('fs');
 
 semanticUiDataPackage = {};
 
-semanticUiDataPackage.getTextFile = function (filePath) {
+semanticUiDataPackage.getTextFile = function (filePath) {	
   return Assets.getText(filePath);
 };
 
